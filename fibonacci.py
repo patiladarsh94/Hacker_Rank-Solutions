@@ -1,5 +1,5 @@
 #Fibonacci series : To print n fibonacci numbers
- 
+#
 #Using loops
 def fibonacci(n):
     fib1,fib2=0,1
